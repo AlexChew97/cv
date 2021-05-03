@@ -1,0 +1,17 @@
+body {
+    background-color: #cbf1f5;
+}
+hr {
+    border-style: hidden;
+    border-top: 5px gray dotted;
+    height: 10px;
+}
+img {
+    width: 125px;
+}
+h1 {
+    color: black;
+}
+h3 {
+    color: black;
+}
